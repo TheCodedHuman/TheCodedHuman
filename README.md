@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">👋 Hey, I’m Moksh Mahawar</h1>
+<h3 align="center">AI/ML Student • Backend Developer • Builder of Clean Systems</h3>
 
-<!--
-**TheCodedHuman/TheCodedHuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Latest Projects
+- [ChronoWish](https://github.com/TheCodedHuman/ChronoWish)
+- [KartavyaFEED](https://github.com/TheCodedHuman/KartavyaFeed)
+- [cdn-verification-kit](https://github.com/TheCodedHuman/cdn-verification-kit)
 
-Here are some ideas to get you started:
+### 🔧 What I Care About
+- Simplicity  
+- Maintainability  
+- Clarity  
+- Zen of Python  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Concepts I Use
+- SDLC  
+- AGILE  
+- SOLID  
+
+### 🌐 Social
+- Twitter: [`@Some1NamedMoksh`](https://x.com/Some1NamedMoksh)  
+- LinkedIn: [`in/mokshmahawar`](https://www.linkedin.com/in/mokshmahawar/)
