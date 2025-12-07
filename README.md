@@ -15,7 +15,8 @@
 ### 🎯 Concepts I Use
 - SDLC  
 - AGILE  
-- SOLID  
+- SOLID
+- MVC
 
 ### 🌐 Social
 - Twitter: [`@Some1NamedMoksh`](https://x.com/Some1NamedMoksh)  
